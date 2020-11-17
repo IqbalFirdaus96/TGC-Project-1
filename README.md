@@ -1,4 +1,4 @@
----STRATEGY----
+----STRATEGY----
 (THE USER)
 -Muay thai practioners and enthusiast
 -Fitness enthusiast
@@ -47,16 +47,45 @@
 (DEMOGRAPHICS AND CHARACTERISTICS)
 (AGE)
 -Anyone's age that is 6 and above and below 80
+
 (OCCUPATION)
 -They are from all forms of professions including Muay Thai fighters
+
 (LEVEL OF IT LITERACY)
 -For the adults,they would be able to see normal fonts and be able to click normal buttons
 -The children would not be looking at the website alone as children's parents are the one who enrol them into the classes
 -Ultimately,the website would have to cater for the majority which is the adults
+
 (EXPECTATIONS)
 -To be able to access the content on Muay Thai,Nutrition and Fitness
--For everyone to be able to access the macronutrients calculator
+-For everyone to be able to access the "Macro calculator"
 -For everyone to be able to contact the gym
 -For the website to look attractive and slick
+
 (METHOD OF INTERACTING WITH THE COMPUTER OR MOBILE DEVICES)
 -It will be mobile friendly
+
+
+----SCOPE----
+(NON-FUNCTIONAL REQUIREMENTS)
+-The website must be mobile responsive
+-The website may localization
+-the website is 100% legal
+
+(FUNCTIONAL REQUIREMENTS)
+-The user can navigate through the navigation bar and be directed to new pages
+-Users can calculate their macronutrients using the "Macro calculator"
+-Users will be able to click on videos
+-Users will be given a questionaire to answer
+-Users will be able to fill up a "particulars form"
+
+(USER STORIES)
+[As a website user, i want to do the following]
+-Navigate through the navigation bar
+-calculate my "Macros" using the "Macro calculator"
+-Fill in my particulars and submit
+
+
+[As the website owner, i want to do the following]
+-Be able to insert new content 
+
