@@ -122,3 +122,15 @@
 [TYPE OF STRUCTURE]
 -Network
 
+----SKELETON----
+(SCALE)
+-The website will look proportionate
+
+(CONTRAST)
+-The website will have inviting colours and text-styling
+
+(FONT-SIZE)
+-It will be based on the importance of the information 
+
+(ALIGNMENT)
+-Left-alligned would mostly be used
