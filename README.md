@@ -89,3 +89,36 @@
 [As the website owner, i want to do the following]
 -Be able to insert new content 
 
+
+----STRUCTURE----
+(FUNCTIONS)
+[How do i access the "Macro calculator"]
+-There will be one tab which shows"Marcro calculator" which will be a whole page by itself
+[How do i find information]
+-All the information will be in the blog which will then be seperated to Muay thai,Nutrition and Fitness
+[How do i fill up the particulars form]
+-There will be a section under "Contact us"
+[How do i fill up the questionaire]
+-It will commence when you click on the "Macro calculator" section
+
+(CONTENT)
+[How is the information organised]
+-There will be seperate sections for each topic 
+-Every part of the content would have borders
+
+(INTERACTION DESIGN)
+[How do we show the user what is clickable]
+-Navigation bars would be clickable
+-Features that need to be clicked would be indicated with an underline
+
+[How do we tell the user which page they are at]
+-The header of each page will be written accordingly
+
+[How do we capture the user's attention]
+-By including colours that make the users feel special
+-Make the experience of exploring the website a smooth one
+
+(INFORMATION ARCHITECTURE)
+[TYPE OF STRUCTURE]
+-Network
+
