@@ -134,3 +134,16 @@
 
 (ALIGNMENT)
 -Left-alligned would mostly be used
+
+
+----SURFACE PLANE----
+(COLOURS)
+-As of now i might use black and gold as i want to make the users feel
+that they are experiencing luxury,premium ownerships and being sophisticated at the same time.
+
+(IMAGES)
+-Will be using several images and will give credits to the ownerships
+
+(FONTS AND TYPOGRAPHY)
+-Will use sans  serif as it's easier on the eye
+-White spaces will be included if needed
