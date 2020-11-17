@@ -1,45 +1,62 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+---STRATEGY----
+(THE USER)
+-Muay thai practioners and enthusiast
+-Fitness enthusiast
+-People who want to lead a healthy lifestyle
+-People who intend to lose weight
+-Individuals who want to count their macronutrients and calculate the amount of food to eat
 
-Welcome IqbalFirdaus96,
+(THE USERS NEEDS)
+-To go for Muay Thai classes
+-To improve their Muay Thai skills
+-To lose weight
+-To be able to calculate their macronutrients(Macros)
+-They want to gain more knowledge and information regarding Muay Thai
+-They want a guide and tips to eating healthier and fitness exercises
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use.
+(THE VALUE PROPOSITION)
+-There will be a "Fitness Blog" which will contain lot of information regarding Muay Thai ,health and fitness 
+-There will be a macronutrients calculator
+-There will be videos to watch
 
-## Gitpod Reminders
+(THE SITE'S OBJECTIVES)
+-To get people to join their Muay Thai gym
+-To share knowledge on Muay Thai,Fitness and nutrition on their blog for everyone to access
+-To  allow everyone to access the macronutrients calculator
+-To get people to contact them if they are interested to join their gym
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+[IDENTIFYING THE USER]
+(CONSUMER OR BUSINESS)
+-consumer as it's a platform for the public to access knowledge and tools that can help them with their goals
 
-`python3 -m http.server`
+(USER NEEDS)
+-To lose weight
+-To eat healthily
+-To learn more about Muay Thai,Nutrition and Fitness
+-To track the nutrition they need
+-To watch videos 
+-To join a Muay Thai gym
+-To contact/find a Muay Thai gym
 
-A blue button should appear to click: *Make Public*,
+(PAIN POINTS)
+-Finding it difficult to lose weight
+-Realising that it is hard to find an accurate macronutrients calculator which is accessible for everyone
+-Knowing that it is difficult to find videos,articles and content about Muay Thai online
+-It's difficult to find a good Muay Thai gym
 
-Another blue button should appear to click: *Open Browser*.
-
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A blue button should appear to click: *Make Public*,
-
-Another blue button should appear to click: *Open Browser*.
-
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-## Updates Since The Instructional Video
-
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
-
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
-
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
-
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
---------
-
-This is a testing run.
+(DEMOGRAPHICS AND CHARACTERISTICS)
+(AGE)
+-Anyone's age that is 6 and above and below 80
+(OCCUPATION)
+-They are from all forms of professions including Muay Thai fighters
+(LEVEL OF IT LITERACY)
+-For the adults,they would be able to see normal fonts and be able to click normal buttons
+-The children would not be looking at the website alone as children's parents are the one who enrol them into the classes
+-Ultimately,the website would have to cater for the majority which is the adults
+(EXPECTATIONS)
+-To be able to access the content on Muay Thai,Nutrition and Fitness
+-For everyone to be able to access the macronutrients calculator
+-For everyone to be able to contact the gym
+-For the website to look attractive and slick
+(METHOD OF INTERACTING WITH THE COMPUTER OR MOBILE DEVICES)
+-It will be mobile friendly
