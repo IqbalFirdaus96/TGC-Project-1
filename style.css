@@ -5,12 +5,14 @@ body {
 }
 
 #topnav {
+    display:flex;
   overflow: hidden;
   background-color: #D6AD60;
+  justify-content: flex-end;
+  padding-left:150px
 }
 
 #topnav a {
-  float: left;
   color: #f2f2f2;
   text-align: center;
   padding: 70px 70px;
@@ -21,3 +23,6 @@ body {
 #topnav a:hover {
   background-color: #ddd;
 }
+
+
+
